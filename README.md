@@ -37,7 +37,7 @@ This project demonstrates **creative web design** with smooth parallax effects, 
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home](assets/screenshots/home.png)
+![Home](Demo images 1.png)
 
 ### 📖 About Section
 ![About](assets/screenshots/about.png)
