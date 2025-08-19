@@ -18,7 +18,7 @@ This project demonstrates **creative web design** with smooth parallax effects, 
 - 🎨 **Parallax Scrolling Effect** for immersive visual depth  
 - 🌍 **Amazon Forest Theme** with vibrant backgrounds  
 - 📱 **Responsive Design** (works on mobile, tablet & desktop)  
-- 🎵 **Background Sound Toggle** (forest sounds 🌲🐦)  
+- 🎵 **Background Sound Toggle** (forest sounds 🌲)  
 - 👤 **About Me Section** with profile photo  
 - 📬 **Contact Form** with real social media icons  
 - 🖼️ **Smooth UI/UX** with professional layout  
@@ -37,7 +37,7 @@ This project demonstrates **creative web design** with smooth parallax effects, 
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home](Demo images 1.png)
+![Home Page](assets/screenshots/home.png)
 
 ### 📖 About Section
 ![About](assets/screenshots/about.png)
