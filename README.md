@@ -7,7 +7,7 @@ Parallax website Demo website
 [![GitHub forks](https://img.shields.io/github/forks/deena-m/Parallax-Website-demo?style=social)](https://github.com/deena-m/Parallax-Website-demo/network/members)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=flat&logo=google-chrome)](https://deena-m.github.io/Parallax-Website-demo/)
 
-A **Parallax Scrolling Website** inspired by the beauty of the **Amazon Forest 🌳🐦**.  
+A **Parallax Scrolling Website** inspired by the beauty of the **Amazon Forest 🌳**.  
 This project demonstrates **creative web design** with smooth parallax effects, interactive UI, and a responsive layout.  
 
 🔗 **Live Demo**: [Parallax Website](https://deena-m.github.io/Parallax-Website-demo/)  
