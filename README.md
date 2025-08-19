@@ -55,3 +55,27 @@ Parallax-Website-demo/
 │── script.js         # JavaScript interactions
 │── assets/           # Images, icons & sounds
 │── README.md         # Project documentation
+
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project for personal or commercial purposes, with attribution.
+
+## 🤝 Contributing
+Contributions are always welcome!  
+- Fork the repo  
+- Create your feature branch (`git checkout -b feature-name`)  
+- Commit changes (`git commit -m "Add feature"`)  
+- Push (`git push origin feature-name`)  
+- Open a Pull Request  
+
+## 🌟 Acknowledgements
+- Inspired by the Amazon Rainforest 🌿  
+- [MDN Web Docs](https://developer.mozilla.org/) for references  
+- Google Fonts for typography  
+
+## 🙌 Support
+If you like this project, don’t forget to ⭐ the repo!  
+
